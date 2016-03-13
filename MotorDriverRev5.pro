@@ -1,4 +1,4 @@
-update=3/9/2016 7:50:37 PM
+update=3/13/2016 11:17:45 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,6 +58,3 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=C:/Users/Lance/Dropbox/TinFoilHatElectronics/Schematics_and_PCBs/libraries.pretty/diode
-LibName31=C:/Users/Lance/Dropbox/TFHLabs/PCB/libraries/Kicad_components_LJD
-LibName32=C:/Users/Asa/Dropbox/TFHLabs/PCB/libraries/Kicad_components_LJD
