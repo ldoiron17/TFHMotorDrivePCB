@@ -1,4 +1,4 @@
-update=3/13/2016 11:17:45 AM
+update=3/13/2016 7:08:47 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../Kicad_Libraries/LJD_libs
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,3 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
+LibName30=C:/Users/Lance/PCB/Kicad_Libraries/Kicad_components_LJD
