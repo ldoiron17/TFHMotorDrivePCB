@@ -29,7 +29,6 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:diode
-LIBS:Kicad_components_LJD
 LIBS:MotorDriverRev5-cache
 EELAYER 25 0
 EELAYER END
@@ -3386,7 +3385,7 @@ F 2 "LJD_footprints:DirectFETMZ" H 18150 9400 60  0001 C CNN
 F 3 "" H 19300 8850 60  0000 C CNN
 F 4 "Infineon" H 18100 9300 60  0001 C CNN "MFG Name"
 F 5 "IRF6662TRPBF	" H 17750 9200 60  0001 C CNN "MFG Part #"
-F 6 "IRF6662TRPBFCT-ND" H 17900 9000 60  0001 C CNN "Distrib PN"
+F 6 "fadfasdf" H 17900 9000 60  0001 C CNN "Distrib PN"
 F 7 "http://www.digikey.com/product-detail/en/IRF6662TRPBF/IRF6662TRPBFCT-ND/1189872" H 19400 9100 60  0001 C CNN "Distrib Link"
 	1    19800 8150
 	1    0    0    -1  
